@@ -5,7 +5,6 @@ id = 59f74b7f-38d1-4136-8164-d8df0877d656
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"896503-83a42daa-4bc2-45e4-b6a3-bd065c39a46b","path":"c1.json","metaData":{}}
 files[] = {"id":"896503-ec92e3de-8b9e-48b7-abda-9d10bde2c4de","path":"c2.json","metaData":{}}
 files[] = {"id":"896503-737f7b47-80d3-4c52-8af7-c469430c7074","path":"c3.json","metaData":{}}
 files[] = {"id":"896503-0db65d52-b73e-4895-a0f3-752c04270ef3","path":"c4.json","metaData":{}}
@@ -19,3 +18,4 @@ files[] = {"path":"zomato.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
+rootFiles[] = zomato.yaml
