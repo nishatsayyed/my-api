@@ -5,10 +5,10 @@ id = 59f74b7f-38d1-4136-8164-d8df0877d656
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"896503-0db65d52-b73e-4895-a0f3-752c04270ef3","path":"c4 again.json","metaData":{}}
-files[] = {"id":"896503-ec92e3de-8b9e-48b7-abda-9d10bde2c4de","path":"hh.json","metaData":{}}
-files[] = {"id":"896503-89030313-dab5-4786-a1d8-3bedaa83c5cc","path":"New Collection(1).json","metaData":{}}
-files[] = {"id":"896503-15da03f2-7a8f-4791-bafa-c36b8a32e504","path":"New Collection.json","metaData":{}}
+files[] = {"id":"896503-15da03f2-7a8f-4791-bafa-c36b8a32e504","path":"c1.json","metaData":{}}
+files[] = {"id":"896503-89030313-dab5-4786-a1d8-3bedaa83c5cc","path":"c2.json","metaData":{}}
+files[] = {"id":"896503-ec92e3de-8b9e-48b7-abda-9d10bde2c4de","path":"c3.json","metaData":{}}
+files[] = {"id":"896503-0db65d52-b73e-4895-a0f3-752c04270ef3","path":"c4.json","metaData":{}}
 
 [relations.collections.metaData]
 
